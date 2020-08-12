@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Pangolin', cursive;
+
+}
+.abc{ 
+    color: #ffffff;
+    text-align: end;
+    font-size: 40px;   
+}
+p{
+  float: right;
+    margin-right: 20px;
+    padding-right: 10px;
+    font-size: 25px;
+}
+article{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+h{
+ font-size: 70px;
+    float: inherit;
+}
+k3{
+  font-size: 80px;
+}
+.m1{
+    font-size: 30px;
+}
+.caja_texto1{ 
+    height: 500px;
+    width: 500px;
+    margin-left: 90px;
+    margin-top: 50px;
+    color: #ffffff;
+    text-align: center;
+    color: currentColor;
+    background-image: url(../img/Pueden-todos-los-planetas-del-Sistema-Solar-alinearse.jpg);
+    display: inline-block;
+    float: left;   
+}  
+.caja_texto2{ 
+    height: 500px;
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 50px;
+    color: #ffffff;
+    background-image: url(../img/david-monje-SkkIFA-hOjY-unsplash.jpg);
+    text-align: center;
+    display: inline-block;
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}

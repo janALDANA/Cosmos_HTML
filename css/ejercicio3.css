@@ -1,0 +1,115 @@
+*{
+    text-decoration: inherit;
+    color: #ffffff;
+    margin:0;
+    padding-top:0px;
+    font-family: 'Pangolin', cursive;
+}
+body{
+    background-color: #f1f1f1;
+}     
+.titulo{
+    color: #ffffff;
+    text-align: end;
+    font-size: 30px;
+}
+p{
+    float: right;
+    margin-right: 20px;
+    padding-right: 10px;
+}
+.cajatarjeta{
+    width: 350px;
+    height: 500px;
+    margin-left: 75px;
+    margin-top: 50px;
+    float: left;
+}
+.tarjeta{
+    padding: 10px;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+     -webkit-box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75)
+}
+.imgPlaneta{
+    margin: 10px 30px -60px 60px;
+    width: 200px;
+    height: 180px;
+    
+}
+.cajainformacion{
+  
+    padding-left: 10px;
+    width: 250px;
+    height: 265px;
+}
+h3{
+    
+    color:black;
+    text-align: center;
+}
+h1{
+    color: #FF8282;
+    font-size: 30px;
+}
+.tx1{
+    text-align: center;
+    color: black;
+}
+.p1{
+    font-size: 25px;
+    padding-top: 10px;
+    margin-right:0px;
+    color: #FF8282;
+    text-align: right;
+}
+.p2{
+    font-size:25px;
+    padding-top: 10px;
+    margin-right: 60px;
+    color: #FF8282;
+    text-align: left;
+}
+.p3{
+    font-size: 25px;
+    padding-top: 10px;
+    margin-right: 107px;
+    color: #FF8282;
+    text-align: left;   
+}
+.p4{
+    margin-left: 26px;
+    padding-top: 10px;
+    font-size: 25px;
+    color: #FF8282;
+    text-align: left;
+}
+.p5{
+    font-size: 25px;
+    padding-top: 10px;
+    margin-right: 40px;
+    color: #FF8282;
+    text-align: left;
+}
+span{
+    text-align:center;
+    color:darkgray;
+    font-size: 15px;
+}
+.cajatexto{
+    background-color: #ffffff;
+    width: 800px;
+    height: 500px;
+    float: left;
+    margin-top: 50px
+}
+.texto{
+        color:black;
+    font-size: 20px;
+}
+.fuente{
+    color: black;
+}
